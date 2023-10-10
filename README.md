@@ -7,6 +7,6 @@ Data analysis helps determine what is and isn't working, so you can make the cha
 In this repository i have created some dashboard by using POWER BI and MS EXCEL
 Created two projects:-
 
-A) Corona vrisu data analysis project
+A) Corona virus data analysis project
 
-B) Fitness watch abalysis project
+B) Fitness watch analysis project
